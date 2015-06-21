@@ -1,0 +1,13 @@
+# Site settings
+title: Building Git2Go
+email: info@git2go.com
+description: > # this means to ignore newlines until "baseurl:"
+  Git2Go is an iOS app, that let's you manage your git repositories
+  from your palm.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://building.git2go.com" # the base hostname & protocol for your site
+twitter_username: git2go
+github_username:  nerdishbynature
+
+# Build settings
+markdown: kramdown
