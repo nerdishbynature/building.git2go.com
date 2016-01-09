@@ -6,7 +6,7 @@ twitter_username: pietbrauer
 
 Support can be the hardest and most cumbersome thing when launching an app. I launched some apps before without an integrated support system and got loads of emails which I had to respond to, for Git2Go we went another way.
 
-<!--more-->
+
 
 When we launched our beta we needed a well integrated, easy to use and easy to setup support system. Friends of mine recommended SupportKit. It integrated well with Slack and had an iMessage like In-App interface. Not to mention it is free for up to 10,000 users every month.
 
