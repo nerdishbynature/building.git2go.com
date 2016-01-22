@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patience – a HackerNews/Twitter comment
+title: Patience
 twitter\_username: pietbrauer
 ---
 
