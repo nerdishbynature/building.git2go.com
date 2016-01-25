@@ -31,7 +31,7 @@ This means you can have an action like the following setup for your blog in 1Wri
 
 ![OneWriter Share Action]({{ site.url }}/images/2016-01-24-OneWriter.jpg)
 
-Let's have a look at the URL from the action `gittogo://repositories/github/nerdishbynature/git2go-faq-web/files/new?content=[text]&path=_posts/[name]`. We choose the current repository to be the FAQ repository with the article's content and the name appended to the `_posts` path. This will open Git2Go and write the post's contents to the path. You can then go ahead and commit the changes to your file and push it to the remote.
+Let's have a look at the URL from the action `gittogo://repositories/github/nerdishbynature/faq/files/new?content=[text]&path=_posts/[name]`. We choose the current repository to be the FAQ repository with the article's content and the name appended to the `_posts` path. This will open Git2Go and write the post's contents to the path. You can then go ahead and commit the changes to your file and push it to the remote.
 
 ### Hosting
 
